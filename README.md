@@ -22,4 +22,6 @@ Relational database:
 Dashboard:
 ![Dashboard Screenshot](Images/Project1_dashboard.png)
 
+[Show project](project_1/)
+
 
