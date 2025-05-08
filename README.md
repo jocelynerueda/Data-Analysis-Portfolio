@@ -17,3 +17,5 @@ The solution features interactive dashboards covering:
 **Tools:** SQL, Looker Studio, Google Cloud Platform (Cloud SQL for MySQL, Cloud Storage buckets, Compute instances)
 
 **Skills:** Database design and creation, cloud database migration, data integration and automation and data visualization and dashboard development
+
+![Dashboard Screenshot](Images/Project1_dashboard.png)
