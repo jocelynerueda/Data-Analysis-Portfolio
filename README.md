@@ -20,7 +20,7 @@ Relational database:
 ![Dashboard Screenshot](Images/project1_RD.png)
 
 Dashboard:
-![Dashboard Screenshot](Images/Project1_dashboard.png)
+![Dashboard Screenshot](project_1/project1_dashboard.png)
 
 [Show project](project_1/)
 
