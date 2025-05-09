@@ -17,12 +17,12 @@ The solution features interactive dashboards covering:
 **Skills:** Database design and creation, cloud database migration, data integration and automation and data visualization and dashboard development
 
 Relational database:
-![Dashboard Screenshot](Images/project1_RD.png)
+![Dashboard Screenshot](project_1/project1_RD.png)
 
 Dashboard:
-![Dashboard Screenshot](project_1/project1_dashboard.png)
+![Dashboard Screenshot](project_1/project1_dashboard.jpg)
 
-[Show project](project_1/)
+[Show sql query](project_1/)
 
 Link to the full dashboard: https://lookerstudio.google.com/reporting/4b0939ee-f091-4f9c-a76a-b3368a0e15ad
 
