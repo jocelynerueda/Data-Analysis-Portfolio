@@ -24,4 +24,6 @@ Dashboard:
 
 [Show project](project_1/)
 
+Link to the full dashboard: https://lookerstudio.google.com/reporting/4b0939ee-f091-4f9c-a76a-b3368a0e15ad
+
 
