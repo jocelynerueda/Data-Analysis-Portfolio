@@ -4,7 +4,7 @@ Here, you’ll find projects that showcase my expertise in data cleaning, analys
 
 ## Project 1: Startup Business Sales Analysis & Inventory Management Dashboard
 
-Developed a dynamic, cloud-based dashboard for a startup to analyze sales trends, optimize inventory management, and monitor staff costs. Created a relational database and integrated it with SQL and visualization tools to transform raw data into actionable insights.
+Developed a dynamic, cloud-based dashboard for a startup (simulated) to analyze sales trends, optimize inventory management, and monitor staff costs. Created a relational database and integrated it with SQL and visualization tools to transform raw data into actionable insights.
 
 The solution features interactive dashboards covering:
 
