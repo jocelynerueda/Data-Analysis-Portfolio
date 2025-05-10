@@ -16,9 +16,9 @@ The solution features interactive dashboards covering:
 
 **Skills:** Database design and creation, cloud database migration, data integration and automation and data visualization and dashboard development
 
-| Relational database | SQL query | Dashboard |
-|:--:|:--:|:--:|
-| ![Image 1](project_1/project1_RD.png) | ![Image 2](project_1/project1_sql.png) | ![Image 3](project_1/project1_dashboard.jpg) |
+| Relational database |  Dashboard |
+|:--:|:--:|
+| ![Image 1](project_1/project1_RD.png) | ![Image 3](project_1/project1_dashboard.jpg) |
 
 [Show project](project_1/)
 
