@@ -18,10 +18,17 @@ The solution features interactive dashboards covering:
 
 | Relational database |  Dashboard |
 |:--:|:--:|
-| ![Image 1](project_1/project1_RD.png) | ![Image 3](project_1/project1_dashboard.jpg) |
+| ![Image 1](project_1/project1_RD.png) | ![Image 2](project_1/project1_dashboard.jpg) |
 
 [Show project](project_1/)
 
 Link to the full dashboard: https://lookerstudio.google.com/reporting/4b0939ee-f091-4f9c-a76a-b3368a0e15ad
+
+## Project 2:
+
+|  Dashboard |
+|:--:|
+|  ![Image 1](project_2/project2_dashboard.jpg) |
+
 
 
