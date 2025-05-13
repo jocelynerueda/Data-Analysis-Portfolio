@@ -26,9 +26,29 @@ Link to the full dashboard: https://lookerstudio.google.com/reporting/4b0939ee-f
 
 ## Project 2:
 
+Developed a dynamic, interactive dashboard for a simulated supply chain and inventory management scenario to monitor key logistics KPIs, optimize warehouse operations, and support strategic planning.
+
+Insights: 
+
+- Low Warehouse Utilization: Currently at 34%, well below the target 75%, indicating underused storage capacity.
+
+- High Transportation Costs in the West: The West region incurs the highest logistics costs, especially for Clothing and Electronics.
+
+- Sales Growth Slowing: After peaking in 2022, units sold have plateaued through 2023–2024, suggesting slowing demand.
+
+- Backorder Volume Notable: Most backorders are fulfilled, but a significant number remain pending or canceled, pointing to supply chain inefficiencies.
+
+
+
+**Tools:** Power BI, Python
+
+**Skills:** Data modeling and relationship mapping for inventory systems, KPI development, Supply chain performance measurement and visualization.
+
 |  Dashboard |
 |:--:|
 |  ![Image 1](project_2/project2_dashboard.jpg) |
+
+[Show project](project_2/)
 
 
 
