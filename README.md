@@ -24,7 +24,7 @@ The solution features interactive dashboards covering:
 
 Link to the full dashboard: https://lookerstudio.google.com/reporting/4b0939ee-f091-4f9c-a76a-b3368a0e15ad
 
-## Project 2:
+## Project 2: Inventory and Supply Chain Management Dashboard
 
 Developed a dynamic, interactive dashboard for a simulated supply chain and inventory management scenario to monitor key logistics KPIs, optimize warehouse operations, and support strategic planning.
 
